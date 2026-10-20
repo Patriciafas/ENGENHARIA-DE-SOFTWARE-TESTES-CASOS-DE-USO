@@ -1,0 +1,4 @@
+# Created at 2022-10-19T16:02:34.876
+Boot Manifest-JAR contains absolute paths in classpath 'D:\ProjetoTestes2022\matematica\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
